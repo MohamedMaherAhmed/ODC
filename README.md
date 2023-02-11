@@ -22,11 +22,11 @@ The following are the Flutter Packages I used during the development of this app
    * [flutter_conditional_rendering](https://pub.dev/packages/flutter_conditional_rendering) 2.0.0, Used this package to render certain widgets according to a certain condition.
    * [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) 0.9.2, Used this package to generate the launcher icon for the app.
    * [page_transition](https://pub.dev/packages/page_transition) 2.0.9, Used this package to animate navigation between UIs and even added a duration to the animation as some high-end devices have high Refresh Rate so the navigation and the animation of it occur super fast and the user don't see it or feel it which degrades the UX for the user and this package fixed this issue.
-   * sizer: ^2.0.15
-   * bottom_navy_bar: ^6.0.0
-   * flutter_svg: ^1.1.5
-   * shared_preferences: ^2.0.15
-   * sqflite: ^2.0.3+1
+   * [Sizer](https://pub.dev/packages/sizer) 2.0.15, Used this package to reform or resize the app according to the dimensions of the device used.
+   * [bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar) 6.0.0, Used this package to make a bottom navigation bar to transition between different pages beautifully and smoothly.
+   * [flutter_svg](https://pub.dev/packages/flutter_svg) 1.1.5, Used this package to render SVG files and display them in the app.
+   * [shared_preferences](https://pub.dev/packages/shared_preferences) 2.0.15, Used this package to locally store some values and be able to modify or read them as simple key-value pairs whenever needed.
+   * [sqflite](https://pub.dev/packages/sqflite) 2.0.3+1, Used this package to store big chunks of data locally in DataBase form (Table with records).
    * bloc: ^8.1.0
    * fluttertoast: ^8.0.9
    * syncfusion_flutter_calendar: ^20.2.50
