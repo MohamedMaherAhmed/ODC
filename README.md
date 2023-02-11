@@ -27,11 +27,11 @@ The following are the Flutter Packages I used during the development of this app
    * [flutter_svg](https://pub.dev/packages/flutter_svg) 1.1.5, Used this package to render SVG files and display them in the app.
    * [shared_preferences](https://pub.dev/packages/shared_preferences) 2.0.15, Used this package to locally store some values and be able to modify or read them as simple key-value pairs whenever needed.
    * [sqflite](https://pub.dev/packages/sqflite) 2.0.3+1, Used this package to store big chunks of data locally in DataBase form (Table with records).
-   * bloc: ^8.1.0
+   * [bloc](https://pub.dev/packages/bloc) 8.1.0, Used this package for its state management library that helps implement the BLoC (Business Logic Component) design pattern.
+   * [flutter_bloc](https://pub.dev/packages/flutter_bloc) 8.1.1, Used this package for using Flutter Widgets that make it easy to implement the BLoC (Business Logic Component) design pattern as it was built to be used with the [bloc](https://pub.dev/packages/bloc) state management package.
+   * path_provider: ^2.0.11
    * fluttertoast: ^8.0.9
    * syncfusion_flutter_calendar: ^20.2.50
-   * flutter_bloc: ^8.1.1
-   * path_provider: ^2.0.11
    * google_fonts: ^3.0.1
    * top_snackbar_flutter: ^2.1.1
    * easy_splash_screen: ^1.0.4
