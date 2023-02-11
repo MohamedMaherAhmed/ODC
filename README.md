@@ -49,3 +49,9 @@ The following are the Flutter Packages I used during the development of this app
 # Video
 
 [Project Presentation](https://drive.google.com/file/d/1oebtmg2rnJx69B8_HjqTfPDiy5EaW1px/view?usp=share_link)
+
+## App Installation
+
+ * Download the project from the repository.
+ * Build it through any IDE that can use Dart (Flutter).
+ * After that, you will find your apk inside the project folder called "build" through this path "build\app\outputs\flutter-apk".
