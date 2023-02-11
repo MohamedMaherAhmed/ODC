@@ -87,7 +87,6 @@ class LoginScreen extends StatelessWidget {
                           borderRadius: BorderRadius.circular(10)),
                     ),
                     onPressed: () {
-                      ///TODO: for the Login Screen's Login btn SnackBar use package Another_Flushbar <- it's better
                       CacheHelper.put(key: "loggedIn", value: true);
                       loginCubit.postLogin(context);
                     },
